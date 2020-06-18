@@ -1,0 +1,11 @@
+C:\D\Trainings\TopologicalSort\TopologicalSortOfBiryaniRecipe\bin\Debug\netcoreapp3.1\TopologicalSortOfBiryaniRecipe.exe
+C:\D\Trainings\TopologicalSort\TopologicalSortOfBiryaniRecipe\bin\Debug\netcoreapp3.1\TopologicalSortOfBiryaniRecipe.deps.json
+C:\D\Trainings\TopologicalSort\TopologicalSortOfBiryaniRecipe\bin\Debug\netcoreapp3.1\TopologicalSortOfBiryaniRecipe.runtimeconfig.json
+C:\D\Trainings\TopologicalSort\TopologicalSortOfBiryaniRecipe\bin\Debug\netcoreapp3.1\TopologicalSortOfBiryaniRecipe.runtimeconfig.dev.json
+C:\D\Trainings\TopologicalSort\TopologicalSortOfBiryaniRecipe\bin\Debug\netcoreapp3.1\TopologicalSortOfBiryaniRecipe.dll
+C:\D\Trainings\TopologicalSort\TopologicalSortOfBiryaniRecipe\bin\Debug\netcoreapp3.1\TopologicalSortOfBiryaniRecipe.pdb
+C:\D\Trainings\TopologicalSort\TopologicalSortOfBiryaniRecipe\obj\Debug\netcoreapp3.1\TopologicalSortOfBiryaniRecipe.csprojAssemblyReference.cache
+C:\D\Trainings\TopologicalSort\TopologicalSortOfBiryaniRecipe\obj\Debug\netcoreapp3.1\TopologicalSortOfBiryaniRecipe.AssemblyInfoInputs.cache
+C:\D\Trainings\TopologicalSort\TopologicalSortOfBiryaniRecipe\obj\Debug\netcoreapp3.1\TopologicalSortOfBiryaniRecipe.AssemblyInfo.cs
+C:\D\Trainings\TopologicalSort\TopologicalSortOfBiryaniRecipe\obj\Debug\netcoreapp3.1\TopologicalSortOfBiryaniRecipe.dll
+C:\D\Trainings\TopologicalSort\TopologicalSortOfBiryaniRecipe\obj\Debug\netcoreapp3.1\TopologicalSortOfBiryaniRecipe.pdb
