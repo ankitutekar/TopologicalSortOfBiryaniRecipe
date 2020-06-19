@@ -3,15 +3,13 @@ namespace TopologicalSortOfBiryaniRecipe
     using System.Collections.Generic;
     public class StepNode
     {
-        private string StepDescription { get; set;} 
-        private string StepId { get; set;}
-        public List<StepNode> NextSteps { get; set;}
-        private int InDegree { get; set;}
+        private string StepDescription { get; set; } 
+        public List<StepNode> NextSteps { get; set; }
+        private int InDegree { get; set; }
 
-        public StepNode(string description, string stepId)
+        public StepNode(string description)
         {
             StepDescription = description;
-            StepId = stepId;
             NextSteps = new List<StepNode>();
         }
 
@@ -23,6 +21,11 @@ namespace TopologicalSortOfBiryaniRecipe
         public int GetInDegree()
         {
             return InDegree;
+        }
+
+        public void DecrementInDegree()
+        {
+            --InDegree;
         }
 
         public void SetInitialIndegreeForNextStep()
